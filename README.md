@@ -1,2 +1,3 @@
 # resume
-The updated resume.
+Elementary Coder.
+Trying to find an intern.
